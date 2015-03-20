@@ -1,0 +1,66 @@
+li {
+    list-style-type:none;
+    line-height: 35px;
+
+    background-color : orange;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+#menu{
+    float: left;
+    width: 150px;
+
+}
+#blocs{
+
+    margin-left: 170px;
+}
+
+
+#un{width: 60%;height: 30%;
+    position: relative;
+    left: 0px;
+    top: 0px;
+
+    }
+#deux{width: 40%;height: 45%;
+    position: relative;
+    left: 60.6%;
+    bottom: 0%;
+    top: -33.5%;
+    right: 0%;
+
+    }
+#trois{width: 40%;height: 50%;
+    position: relative;
+    left: 0;
+    bottom: 0%;
+    top: -50%;
+    right: 0%;
+
+    }
+#quatre{width: 60%;height: 35%;
+    position: relative;
+    left: 40.3%;
+    top: -87%;
+    right: 0%;
+    }
+#cinq{width: 1161px;height: 20%;
+    position: relative;
+    left: 0%;
+    bottom: 0%;
+    top: -89%;
+    right: 0%;
+
+    }
+#six{width: 20%;height: 15%;
+    position: relative;
+    left: 40.3%;
+    bottom: 0%;
+    top: -164.6%;
+    right: 0%;
+    overflow: auto;
+
+    }
+
